@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udita Singh</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<h3 align="center">A passionate Software engineer and Frontend Designer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c27173e12b13f8feaaed79c/1626226263755-G83JN9COKA4600ESHG8Z/SpreadsheetAniFin.gif">
 
 - 🚀 I’m currently learning **C language (basics), Web development, Java , Python**
