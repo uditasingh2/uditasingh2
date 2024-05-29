@@ -4,10 +4,8 @@
 
 <body style="background-color:#82758b;">
 </body>
-
-- 🚀 I’m currently learning **C language (basics), Web development, Java , Python**
 -  **Sophomore student at Thapar University, Patiala**
-
+- 🚀 I’m currently learning **C language (basics), Web development, Java , Python**
 - 🍎 Fun fact **I like cats ≽^•༚•^≼**
 
 <h3 align="left">Connect with me:</h3>
