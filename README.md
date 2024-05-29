@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently learning **C language (basics), Web development, Java , Python**
 
-- 🍎 Fun fact **I like cats ≽^•༚• ྀི≼ **
+- 🍎 Fun fact **I like cats ≽^•༚•^≼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
