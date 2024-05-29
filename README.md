@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udita Singh</h1>
 <h3 align="center">A passionate Software engineer and Frontend Designer </h3>
-<img align ="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align ="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/55ab4afce4b06df5b4612325/612e3ead-1b44-42c4-bea8-827b03a07194/giphy.gif">
 
 
 -  **Sophomore student at Thapar University, Patiala**
